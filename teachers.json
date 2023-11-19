@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "full_name": "pap",
+    "age": 23,
+    "dob": "20-02-2000",
+    "num_classes": 40
+  },
+  {
+    "id": 7,
+    "full_name": "Meda Venkata Narayana Pranath",
+    "age": 20,
+    "dob": "17-06-2002",
+    "num_classes": 40
+  },
+  {
+    "id": 5,
+    "full_name": "pranath",
+    "age": 21,
+    "dob": "27-082002",
+    "num_classes": 40
+  }
+]
